@@ -1,8 +1,8 @@
-# sequential_pattern_minimg
-
-We can use sequential pattern mining to uncover series of common events. 
+# Association Rules
 
 The python file uses a method called association rules.
+
+We use association rules to conduct market basket analysis.
 
 References:
 
